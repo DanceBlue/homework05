@@ -1,0 +1,19 @@
+# 密钥 & 配置
+.env
+*.key
+*.pem
+
+# Go
+/bin
+/vendor
+/.vscode
+go.work
+
+# 编译产物
+*.abi
+*.bin
+*.exe
+
+# 系统
+.DS_Store
+.idea
